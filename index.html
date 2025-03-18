@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Perfil - Etherea</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Lora:wght@700&display=swap');
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="profile-card">
+            <h1>¡Hola, soy Etherea!</h1>
+            <img src="img/avataaars.png" alt="Mi Avatar" class="avatar">
+            <p>Este es mi perfil ficticio, creado con HTML y CSS.</p>
+            <form id="profile-form">
+                <label for="name">Nombre/Pseudónimo:</label>
+                <input type="text" id="name" name="name" placeholder="Tu pseudónimo">
+                <span class="error-message" id="name-error"></span>
+
+                <label for="email">Email (ficticio):</label>
+                <input type="email" id="email" name="email" placeholder="ejemplo@correo.com">
+                <span class="error-message" id="email-error"></span>
+
+                <label for="message">Sobre mí:</label>
+                <textarea id="message" name="message" placeholder="Describe tu perfil..."></textarea>
+                <span class="error-message" id="message-error"></span>
+
+                <button type="submit">Enviar</button>
+                <button id="theme-toggle">Cambiar a modo oscuro</button>
+            </form>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
