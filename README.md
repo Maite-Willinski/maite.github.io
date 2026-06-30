@@ -6,8 +6,9 @@
         <h1 style="color: #ffffff; font-family: 'Segoe UI', sans-serif; margin: 0; font-size: 2.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">🌸 Página Web Personal</h1>
         <p style="color: #b39ddb; font-size: 1.1em; margin-top: 5px;">Laboratorio Autodidacta de Maquetación Estética y Despliegue en Servidor Raíz</p>
         <br>
-        <a href="https://maite.github.io/" target="_blank">
-          <img src="https://img.shields.io/badge/🔗_Ver_Sitio_En_Vivo-Click_Aquí-ff79c6?style=for-the-badge&labelColor=121212" alt="Live Demo" />
+        <!-- ENLACE NATIVO BLINDADO PARA EVITAR FALLOS DE REDIRECCIÓN -->
+        <a href="https://maite.github.io/">
+          <img src="https://img.shields.io/badge/%F0%9F%94%97_Ver_Sitio_En_Vivo-Click_Aqu%C3%AD-ff79c6?style=for-the-badge&labelColor=121212" alt="Live Demo" />
         </a>
       </td>
     </tr>
@@ -15,6 +16,12 @@
 </div>
 
 <br>
+
+## 🔗 Acceso Rápido al Sitio
+ Si el botón del banner presenta restricciones en tu navegador, puedes acceder directamente haciendo clic en el siguiente enlace seguro:
+👉 **[Abrir mi Página Web Personal en vivo (https://maite.github.io/)](https://maite.github.io/)**
+
+---
 
 ## 🔮 Sobre este Proyecto
 
