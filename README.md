@@ -4,10 +4,10 @@
     <tr>
       <td align="center" style="background: linear-gradient(135deg, #4a148c 0%, #1a1a2e 100%); padding: 35px 20px; border-radius: 12px; border: 1px solid #7c4dff;">
         <h1 style="color: #ffffff; font-family: 'Segoe UI', sans-serif; margin: 0; font-size: 2.5em; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">🌸 Página Web Personal</h1>
-        <p style="color: #b39ddb; font-size: 1.1em; margin-top: 5px;">Laboratorio Autodidacta de Maquetación Estética y Despliegue en Servidor Raíz</p>
+        <p style="color: #b39ddb; font-size: 1.1em; margin-top: 5px;">Laboratorio Autodidacta de Maquetación Estética y Despliegue de Sistemas</p>
         <br>
-        <!-- ENLACE NATIVO BLINDADO PARA EVITAR FALLOS DE REDIRECCIÓN -->
-        <a href="https://maite.github.io/">
+        <!-- ENLACE CORREGIDO CON TU URL REAL -->
+        <a href="https://maite-willinski.github.io/maite.github.io/">
           <img src="https://img.shields.io/badge/%F0%9F%94%97_Ver_Sitio_En_Vivo-Click_Aqu%C3%AD-ff79c6?style=for-the-badge&labelColor=121212" alt="Live Demo" />
         </a>
       </td>
@@ -18,14 +18,14 @@
 <br>
 
 ## 🔗 Acceso Rápido al Sitio
- Si el botón del banner presenta restricciones en tu navegador, puedes acceder directamente haciendo clic en el siguiente enlace seguro:
-👉 **[Abrir mi Página Web Personal en vivo (https://maite.github.io/)](https://maite.github.io/)**
+Si el botón presenta restricciones en tu navegador, puedes acceder directamente haciendo clic en el siguiente enlace seguro:
+👉 **[Abrir mi Página Web Personal en vivo](https://maite-willinski.github.io/maite.github.io/)**
 
 ---
 
 ## 🔮 Sobre este Proyecto
 
-Este repositorio aloja el código fuente de mi **Página Web Personal**, desplegada de forma nativa en el dominio raíz de mis GitHub Pages. 
+Este repositorio aloja el código fuente de mi **Página Web Personal**, desplegada de forma nativa a través de GitHub Pages. 
 
 Tras consolidar mis conocimientos de hardware, redes y protocolos en **SMR**, decidí diseñar este espacio de forma autodidacta para explorar las bases del desarrollo de interfaces visuales. Funciona como mi laboratorio estático experimental, donde priorizo la armonía cromática lila, la limpieza en las hojas de estilo (CSS) y una maquetación responsive fluida.
 
